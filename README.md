@@ -8,14 +8,14 @@ This module is now discontinued and difficult to find online, but it worked wond
 
 Creds for development on the script go to: 
 
-# Nicholas Klem - Saloxin
-# Tommy Wyborg - Drone
+* Nicholas Klem - Saloxin
+* Tommy Wyborg - Drone
 
 Later implementations and maintenance: 
 
-# Enrico Razzetti - Sub
-# Kacper Wysocki - Comotion
-# Kristoffer Ravnenberg - Krav
-# Salve J. Nilsen - Sjn
+* Enrico Razzetti - Sub
+* Kacper Wysocki - Comotion
+* Kristoffer Ravnenberg - Krav
+* Salve J. Nilsen - Sjn
 
 
